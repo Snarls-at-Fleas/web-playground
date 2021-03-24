@@ -1,1 +1,28 @@
+.upperNav {
+    background-color: #333333;
+    color: #D6D6D6;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    text-align: center;
+    padding: 12px;
+    font-size: small;
+    margin: 0px;
+}
 
+.upperContacts {
+    background-color: #F5F5F7;
+    color: #1D1D1F;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: small;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.upperContactsElement {
+    margin-bottom: 0px;
+}
+
+li {
+    display: inline;
+    margin: 30px;
+}

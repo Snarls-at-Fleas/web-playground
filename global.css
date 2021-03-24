@@ -1,12 +1,12 @@
 body {
-  background-color: #e7e7e7;
-  display: flex;
-  padding: 0;
-  margin: 0;
+    background-color: #e7e7e7;
+    display: flex;
+    padding: 0;
+    margin: 0;
 }
 
 .globalNav {
-  background-color: #fff;
-  width: 320px;
-  height: 100vh;
+    background-color: #fff;
+    width: 320px;
+    height: 100vh;
 }
